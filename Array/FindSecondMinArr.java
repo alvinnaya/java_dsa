@@ -20,7 +20,7 @@ public class FindSecondMinArr {
                 sec = arr[i];
             }
         }
-        return sec;
+        return min;
     }
 
 
